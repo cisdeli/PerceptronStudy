@@ -1,0 +1,2 @@
+# PerceptronStudy
+Simple perceptron study 
